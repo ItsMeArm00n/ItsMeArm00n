@@ -1,6 +1,6 @@
 # Hey, I'm Armaan Kumar
 
-Aspiring AI Engineer | Python Developer | Student (Grade 12, CBSE)  
+Aspiring AI Engineer | Python Developer | High School Student 
 Passionate about building intelligent systems that make real-world impact.
 
 ---
