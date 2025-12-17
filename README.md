@@ -4,7 +4,7 @@
 ### Aspiring AI Engineer | Python Developer | Research Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-armaan--ai.vercel.app-blue?style=for-the-badge&logo=vercel)](https://armaan-ai.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://www.linkedin.com/in/armaan-kumar-631868343/))
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/ItsMeArm00n)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:armaan27armaan@gmail.com)
 
