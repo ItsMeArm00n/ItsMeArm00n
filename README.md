@@ -1,4 +1,4 @@
-![Armaan Kumar — Neural Lab](assets/header.svg)
+![Armaan Kumar — Neural Lab](CnP_31102026_170700.png)
 
 <div align="center">
 
